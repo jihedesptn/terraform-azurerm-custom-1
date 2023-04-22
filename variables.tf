@@ -1,0 +1,1 @@
+variable "nom_rg" {}
